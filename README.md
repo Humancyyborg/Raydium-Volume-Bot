@@ -5,16 +5,11 @@ This volume bot distribute SOL to multiple wallets and buy and sell with that di
 
 ## Contact Info
 
-<p>
-  <a href="mailto:leobrandt0912@gmail.com" target="_blank">
-        <img alt="Email"
-        src="https://img.shields.io/badge/Email-00599c?style=for-the-badge&logo=gmail&logoColor=white"/>
-    </a>
-     <a href="https://x.com/web3batman" target="_blank"><img alt="Twitter"
-        src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/></a>
-<a href="https://t.me/shinnyleo0912" target="_blank"><img alt="Telegram"
-        src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-</p>
+
+
+We're building advanced DEX bots for the community to support our mission at Cortex in advancing stem cell therapies and seizure prediction technologies for epilepsy treatment. By participating in our presale, you'll gain early access to these bots and receive full setup support. Join us in revolutionizing epilepsy treatment and be part of our journey!
+
+For more details, join our Discord at [Core Dex Community](https://discord.gg/AWDgU4WCwV)
 
 ## Features
 
@@ -106,10 +101,4 @@ npm run start
 - ✅ **Sell before gather**: When gathering, if there are tokens left in the wallet, it sells the tokens first and gathers only SOL (the token account rent of 0.00203 SOL is reclaimed).
 - ❌ **Equal number of buys and sells**: One-time buy and one-time sell actions left sell pressure at the end, as there was always a sell at the end of the volume operation.
 - ✅ **More buys than sells**: It randomly buys twice with SOL in the wallet and sells all tokens after some time, making the number of buys twice as many as sells, thus creating more buy pressure.
-
-# Version 3 is also developed.
-### Version 3 is designed for the massive transactions in a very short time.
-So, it is making 300 transactions in a minute.
-How wonderful it is.
-If you need it, you can contact me.
 
